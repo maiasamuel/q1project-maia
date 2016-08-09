@@ -1,0 +1,28 @@
+body {
+  background-color: lightblue;
+  font-family: Papyrus, fantasy;
+  text-align: center;
+  font-size: 35px;
+
+}
+.howtoplay {
+  font-size: 25px;
+
+}
+
+#name {
+  color: red;
+}
+
+#game {
+  display: inline-flex;
+}
+
+h4 {
+  font-size:20px;
+}
+
+h5 {
+  font-size:20px;
+
+}
